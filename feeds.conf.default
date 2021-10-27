@@ -6,8 +6,7 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
-#src-git helloworld https://github.com/fw876/helloworld
-#src-git dockerman https://github.com/lisaac/luci-app-dockerman
-#src-git lib-docker https://github.com/lisaac/luci-lib-docker
-src-git kenzo https://github.com/kenzok8/openwrt-packages
- 
+src-git helloworld https://github.com/fw876/helloworld
+src-git dockerman https://github.com/lisaac/luci-app-dockerman
+src-git lib-docker https://github.com/lisaac/luci-lib-docker
+src-git AdGuarHome https://github.com/AdguardTeam/AdGuardHome
